@@ -1,0 +1,4 @@
+twelvedata
+websocket-client
+psycopg2-binary
+python-dotenv
